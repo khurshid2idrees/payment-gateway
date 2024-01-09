@@ -1,5 +1,6 @@
 import { useForm } from "react-hook-form"
 import Form from "./components/Form"
+import Gateway from "./components/Gatway"
 
 
 export default function App() {
@@ -8,6 +9,7 @@ export default function App() {
 
     <>
       <Form />
+      {/* <Gateway/> */}
     </>
 
   )

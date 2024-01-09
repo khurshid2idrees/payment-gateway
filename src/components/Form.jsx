@@ -5,9 +5,9 @@ export default function Form() {
         <>
             <div className='flex justify-center'>
               
-                <form className="w-full max-w-lg bg-white p-4 rounded-md shadow-sm">
-                <p className=' bg-gradient-to-r from-blue-900 via-blue-600 to-blue-300 text-center '>hello world</p>  
-                    <div className="flex flex-wrap -mx-3 mb-6">
+                <form className="w-full max-w-lg bg-white p-16   rounded-md shadow-sm">
+                <p className=' bg-gradient-to-r from-blue-900 via-blue-600 to-blue-500 text-center text-white text-sm font-serif p-1'>Enter Details Where Order Will Be Shipped</p>  
+                    <div className="flex flex-wrap -mx-3 mb-6 mt-6">
                        
                         <div className="w-full md:w-1/2 px-3 mb-6 md:mb-0">
                             <label className="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2" for="grid-first-name">
